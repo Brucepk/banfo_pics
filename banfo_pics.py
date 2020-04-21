@@ -11,6 +11,14 @@ from requests.packages.urllib3.exceptions import InsecureRequestWarning, Insecur
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 requests.packages.urllib3.disable_warnings(InsecurePlatformWarning)
 
+"""
+本项目首发：
+B站原创视频：https://www.bilibili.com/video/BV1Vz41187Rt
+公众号原创文章：https://mp.weixin.qq.com/s/fVDwNdVDZo_0q6jAMWCGAA
+公众号：Python知识圈（id：PythonCircle）
+哔哩哔哩：菜鸟程序员的日常
+"""
+
 
 def request_data():
     article_url_list = []
@@ -127,7 +135,14 @@ def download(filename, url):
     except Exception:
         print('下载失败：', filename)
 
-
+"""
+本项目首发：
+B站原创视频：https://www.bilibili.com/video/BV1Vz41187Rt
+公众号原创文章：https://mp.weixin.qq.com/s/fVDwNdVDZo_0q6jAMWCGAA
+公众号：Python知识圈（id：PythonCircle）
+哔哩哔哩：菜鸟程序员的日常
+"""
+        
 if __name__ == '__main__':
     for url in request_data():
         url_list = get_urls(url)
@@ -136,3 +151,5 @@ if __name__ == '__main__':
             filename = r'./banfo/' + pic_url.split('/')[-2] + '.' + pic_url.split('=')[-1]   # 图片的路径
             download(filename, pic_url)
 
+            
+            
