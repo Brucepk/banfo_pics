@@ -3,7 +3,8 @@
 
 Python环境下，提前安装好requests库和bs4库
 
-按照公众号文章操作操作即可
+按照公众号文章操作操作即可:[我用Python一键保存了半佛老师所有的骚气表情包
+](https://mp.weixin.qq.com/s/fVDwNdVDZo_0q6jAMWCGAA)
 
 本项目[原创视频版](https://www.bilibili.com/video/BV1Vz41187Rt)，需要你的三连支持！需要你的三连支持！需要你的三连支持！
 
