@@ -1,7 +1,7 @@
-# banfo_picspic_text_download.py，代码文件里有详细的操作步骤说明，更详细的代码解析见我的公众号「Python知识圈」
 ## 使用Python爬虫批量保存半佛仙人公众号的骚气表情包，识别图中文字当成名称，方便找图时通过名称快速搜索，提高找图效率。
 
 #### 0418无重命名版本：
+0418版本，banfo_pic.py，代码文件里有详细的操作步骤说明，更详细的代码解析见我的公众号「Python知识圈」
 按照公众号文章操作操作即可:[我用Python一键保存了半佛老师所有的骚气表情包
 ](https://mp.weixin.qq.com/s/fVDwNdVDZo_0q6jAMWCGAA)
 
