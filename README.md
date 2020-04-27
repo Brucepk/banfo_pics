@@ -19,6 +19,7 @@
 ## 微信公众号
 欢迎关注个人微信公众号 “Python知识圈” （ID：PythonCircle）
 
-![公众号](https://github.com/Brucepk/pk.github.io/blob/master/gzh.jpg)
+![Python知识圈公众号二维码](http://blog.pyzhishiquan.com/img/20200427091312.jpg)
+
 
 
